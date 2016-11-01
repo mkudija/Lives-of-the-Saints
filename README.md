@@ -4,7 +4,7 @@
 
 > This script visualizes the lifetimes of the Saints. 
 
-![Saints Lives](https://github.com/mkudija/Lives-of-the-Saints/blob/master/png/saints.png "Saints Lives")
+![Saints Lives](https://github.com/mkudija/Lives-of-the-Saints/blob/master/lives-of-the-saints.png "Saints Lives")
 
 <hr> 
 
