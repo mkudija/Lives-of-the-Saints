@@ -14,6 +14,3 @@
 
 # Installation
 Clone this repo using `https://github.com/mkudija/Lives-of-the-Saints.git` and run [saint-lives.ipynb](https://github.com/mkudija/Lives-of-the-Saints/blob/master/saint-lives.ipynb)
-
-# Usage
-Feel free to add additional information.
